@@ -3,4 +3,7 @@ A todo list app created using the FARM stack(FastAPI, React and MongoDB)
 
 The FastAPI framework is based on Python.
 
-Here are the list of dependencies that are required for successful operation of the program.
+Install the dependencies using pipenv install -r requirements.txt in the backend. 
+Create a local mongoDB cluster in order to get the project to work.
+To verify backend working, run using uvicorn 
+
