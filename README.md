@@ -1,5 +1,5 @@
 # Todo
-A todo list app created using the FARM stack(FastAPI, React and MongoDB)
+A todo list app created to manage schedule.
 
 The FastAPI framework is based on Python.
 
