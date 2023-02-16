@@ -1,4 +1,3 @@
-
 import motor.motor_asyncio
 from model import Todo
 
