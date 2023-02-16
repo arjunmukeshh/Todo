@@ -1,14 +1,14 @@
-import TodoItem from "./Todo";
+// @bekbrace
+// FARMSTACK Tutorial - Sunday 13.06.2021
 
-function TodoView(props){
+import TodoItem from './Todo'
+
+export default function TodoView(props) {
     return (
         <div>
-            <u1>
-                {props.todoList.map(todo => <TodoItem todo = {todo}/>)}
-
-            </u1>
+            <ul>
+                {props.todoList.map(todo => <TodoItem todo={todo} />)}
+            </ul>
         </div>
     )
 }
-
-export default TodoView
