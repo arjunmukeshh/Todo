@@ -10,12 +10,12 @@ To verify backend working, run using uvicorn and go to localhost:8000/docs
 
 If all works perfectly, this screen should appear.
 
-![image](https://user-images.githubusercontent.com/60224351/219439334-3123538a-1449-4f6a-a336-bc71fdbc8e49.png)
+![image](https://user-images.githubusercontent.com/60224351/219440202-78e27f5d-6401-4f31-9d6d-7b46e9cbf030.png)
 
 Put down the title and description and press the add button.
 
 Sample Output
 
-![image](https://user-images.githubusercontent.com/60224351/219439697-b03e9da8-2845-49f0-b2b8-e9d9c7d66e1a.png)
+![image](https://user-images.githubusercontent.com/60224351/219440332-16aa2f1d-7e42-4972-bbcc-c4cff64df4de.png)
 
 
