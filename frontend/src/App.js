@@ -44,7 +44,7 @@ function App() {
       <TodoView todoList={todoList} />
       </div>
       </div>
-      <h6 className="card text-dark bg-warning py-1 mb-0" ><a href="https://github.com/arjunmukeshh" >My Github</a></h6>
+    
       <h6 className="card text-dark bg-warning py-1 mb-0"><a href="https://www.linkedin.com/in/arjunmukesh/" >My LinkedIn</a></h6>
     </div>
   );
